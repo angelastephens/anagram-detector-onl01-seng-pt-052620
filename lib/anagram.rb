@@ -1,5 +1,5 @@
 class Anagram
-  
+  atrr_accessor 
   
   
   

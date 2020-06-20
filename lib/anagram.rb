@@ -14,7 +14,6 @@ class Anagram
         new_array << @word
       end
     new_array
-    
-  
+  end
   end
 end
